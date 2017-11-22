@@ -72,6 +72,7 @@ payment methods.
 
 **Direct payment API**
 
+
 The cartridge offers customers the possibility to fill in payment
 information directly on the websites of merchants, who have to be
 PCI-DSS compliant. Transactions will be validated through the module
